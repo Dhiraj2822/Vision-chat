@@ -84,7 +84,7 @@ This will start the frontend on `http://localhost:9002` and the Genkit AI servic
 
 ## Demo Video
 
-[https://drive.google.com/drive/folders/1Pupzw5y95RRjCuvtmP5krxwbxK_Qwztd]
+[https://drive.google.com/file/d/107ATbWowf7rEyi9ZRG3qzEa73h0T_SbG/view?usp=sharing]
 
 
 ---
